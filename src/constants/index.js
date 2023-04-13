@@ -22,10 +22,7 @@ import {
     headad,
     estpx,
     sisbibl,
-    sisemp,  
-    //carrent,
-    //jobit,
-    //tripguide,  
+    sisemp,    
   } from "../assets";
   
   export const navLinks = [
