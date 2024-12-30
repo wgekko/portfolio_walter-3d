@@ -77,7 +77,7 @@ const About = () => {
           <button onClick={onButtonClick}>
 					   Descargar mi CV-Resumen
 				  </button>
-          <a href="https://www.linkedin.com/in/walter-gomez-fullstack-developer-jr-java-python-adm-finanzas/" target="_black"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Mi linkedIn</a>
+          <a href="https://www.linkedin.com/in/walter-gomez-fullstack-developer-datascience-businessintelligence-finanzas-python/" target="_black"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Mi linkedIn</a>
       </div>    
       </motion.p>  
       
